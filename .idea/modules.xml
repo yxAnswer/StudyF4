@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YangxuPractice/YangxuPractice.iml" filepath="$PROJECT_DIR$/YangxuPractice/YangxuPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyf4.iml" filepath="$PROJECT_DIR$/studyf4.iml" />
+    </modules>
+  </component>
+</project>
