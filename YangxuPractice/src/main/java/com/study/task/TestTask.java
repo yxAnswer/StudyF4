@@ -15,7 +15,9 @@ import java.util.Date;
 public class TestTask {
 
     private int i=0;
-    @Scheduled(fixedDelay = 1000)
+//    @Scheduled(fixedDelay = 1000)
+    @Scheduled(cron = "*/3 * * * * *")
+//    @Scheduled(fixedDelayString = "2000")
     public void sum(){
         i++;
         SimpleDateFormat sf=new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
